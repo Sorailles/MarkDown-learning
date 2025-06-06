@@ -34,7 +34,7 @@ MarkDown学习笔记
 
 ---
 ### 三级标题-引用和列表   
-> 引用，加>即可，两个>>可嵌套，三个...  
+> 引用，加>即可，两个>>可嵌套，三个...   
 	>> 1. 引用结束要换行，插入连接有两种方式：[链接名称] (链接地址)或者直接<链接地址>  
 		>>> 1. 方式一： [黑闷蛋-when you are gone](https://www.bilibili.com/video/BV1D44y1r7jh/)  
 		 ![黑闷蛋-when you are gone](https://i1.hdslb.com/bfs/archive/def424ecedd77ef5c69fbd6ca3b0387b5139bccf.jpg@672w_378h_1c.avif)  
