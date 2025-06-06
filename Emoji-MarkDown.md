@@ -5,7 +5,7 @@
 4. [地点Places](#Places)  
 5. [抽象符号Symbols](#Symbols)  
 
-
+---
 ### people 
 😄:smile:
 
@@ -369,6 +369,7 @@
 
 💭:thought_balloon:
 
+---
 ### Nature
 ☀️:sunny:
 
@@ -596,6 +597,7 @@
 
 ⛅:partly_sunny:
 
+---
 ### Object
 🎍:bamboo:
 
@@ -1115,6 +1117,7 @@
 
 🌽:corn:
 
+---
 ### Places
 🏠:house:
 
@@ -1328,6 +1331,7 @@
 
 🇩🇪:de:
 
+---
 ### Symbols
 1️⃣:one:
 
