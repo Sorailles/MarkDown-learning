@@ -3,8 +3,8 @@
 Why I make this？：  
 :joy: MarkDown用的比较多，Github、Typora、LaTex都会用到，一个漂亮的README吸stars无数，学一手稳赚不亏。  
 :smile: 我的目标是用尽可能短的内容，展示尽可能多的语法！！  
-:star2: **如果你喜欢的话，请给我star**
-:star: **give me a star, if you LIKE this!** 
+:star2: **如果你喜欢的话，请给我star**  
+:star: **give me a star, if you LIKE this!**   
 
 ---
 **你学习前需要注意的：**  
