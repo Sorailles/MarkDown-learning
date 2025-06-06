@@ -53,7 +53,7 @@ ___必须注意：___
 
 ---  
 ##### 五级标题-公式  
-$$ 行间公式前后加俩美元符号即可 注意要回车 但在Github中无需换行  
+$$ 行间公式前后加俩美元符号即可 注意要回车 但在Github中无需换行 $$  
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
