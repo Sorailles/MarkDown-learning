@@ -1,12 +1,12 @@
 # 目录 Menu：
-1. [人people](#人people)  
-2. [自然Nature](#自然Nature)  
-3. [物品Object](#物品Object)  
-4. [地点Places](#地点Places)  
-5. [抽象符号Symbols](#抽象符号Symbols)  
+1. [人people](#people)  
+2. [自然Nature](2.Nature)  
+3. [物品Object](#3.Object)  
+4. [地点Places](#4.Places)  
+5. [抽象符号Symbols](#5.Symbols)  
 
 
-### 1.people
+### people 
 😄:smile:
 
 😆:laughing:
