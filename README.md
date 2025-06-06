@@ -38,7 +38,7 @@ MarkDown学习笔记
 	>> 1. 引用结束要换行，插入连接有两种方式：[链接名称] (链接地址)或者直接<链接地址>  
 		>>> 1. 方式一： [黑闷蛋-when you are gone](https://www.bilibili.com/video/BV1D44y1r7jh/)  
 		 ![黑闷蛋-when you are gone](https://i1.hdslb.com/bfs/archive/def424ecedd77ef5c69fbd6ca3b0387b5139bccf.jpg@672w_378h_1c.avif)  
-		 要插入图片给出本地路径或者URL即可，与第一种插入链接形式类似，**前面加个!即可**  
+		 _要插入图片给出本地路径或者URL即可，与第一种插入链接形式类似，**前面加个!即可**_
   		>>> 2. 方式二：官方教程：<https://markdown.com.cn/extended-syntax/heading-ids.html>  
 	>> 2. 如果想要控制列表的层级，则需要在列表符号前使用"___Tab___"    
 		>>> 1. 有序列表使用数字并加上”**.**” 和 一个“**空格**”作为列表的标记  
