@@ -3,13 +3,16 @@
 Why I make this？：  
 :joy: MarkDown用的比较多，Github、Typora、LaTex都会用到，一个漂亮的README吸stars无数，学一手稳赚不亏。  
 :smile: 我的目标是用尽可能短的内容，展示尽可能多的语法！！  
+
+---
 **你学习前需要注意的：**  
 - **GitHub在解析md时，需要每行两个空格才能换行**  
 - **GitHub的目录锚点某些情况下无法实现跳转，不要用逗号链接，尽量用\-**
 - 本仓库学习基于Typora，后续根据Github润色（Typora包没问题，Github可能存在问题）
 
 当前仓库主要内容速览如下（已最新）：  
-  
+
+---  
 MarkDown学习笔记
 # 目录：
 
