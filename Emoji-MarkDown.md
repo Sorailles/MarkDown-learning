@@ -1,9 +1,9 @@
 # 目录 Menu：
 1. [人people](#people)  
-2. [自然Nature](2.Nature)  
-3. [物品Object](#3.Object)  
-4. [地点Places](#4.Places)  
-5. [抽象符号Symbols](#5.Symbols)  
+2. [自然Nature](Nature)  
+3. [物品Object](#Object)  
+4. [地点Places](#Places)  
+5. [抽象符号Symbols](#Symbols)  
 
 
 ### people 
@@ -369,7 +369,7 @@
 
 💭:thought_balloon:
 
-### 2.Nature
+### Nature
 ☀️:sunny:
 
 ☔:umbrella:
@@ -596,7 +596,7 @@
 
 ⛅:partly_sunny:
 
-### 3.Object
+### Object
 🎍:bamboo:
 
 💝:gift_heart:
@@ -1115,7 +1115,7 @@
 
 🌽:corn:
 
-### 4.Places
+### Places
 🏠:house:
 
 🏡:house_with_garden:
@@ -1328,7 +1328,7 @@
 
 🇩🇪:de:
 
-### 5.Symbols
+### Symbols
 1️⃣:one:
 
 2️⃣:two:
