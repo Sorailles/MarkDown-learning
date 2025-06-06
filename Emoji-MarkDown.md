@@ -1,9 +1,9 @@
 # 目录 Menu：
-[人people](#人people)
-[自然Nature](#自然Nature)
-[物品Object](#物品Object)
-[地点Places](#地点Places)
-[抽象符号Symbols](#抽象符号Symbols)
+1. [人people](#人people)  
+2. [自然Nature](#自然Nature)  
+3. [物品Object](#物品Object)  
+4. [地点Places](#地点Places)  
+5. [抽象符号Symbols](#抽象符号Symbols)  
 
 
 ### 1.people
