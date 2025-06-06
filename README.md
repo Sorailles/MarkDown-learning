@@ -53,8 +53,8 @@ ___必须注意：___
 
 ---  
 ##### 五级标题-公式  
-$$ 行间公式前后加俩美元符号即可 注意要回车\\E=mc^2 $$  
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ 行间公式前后加俩美元符号即可 注意要回车 但在Github中无需换行
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 启用$LaTex$内联公式重启，<font color=Crimson>行内公式输入美元\$即可 $E=mc^2$ </font>  
